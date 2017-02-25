@@ -1,5 +1,5 @@
 #ifndef H_EXERCISES
-#define H_EXERCIES
+#define H_EXERCISES
 
 // returns the number of nodes in the stack
 int count();

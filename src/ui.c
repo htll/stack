@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "../headers/ui.h"
 #include "../headers/stack.h"
 #include "../headers/exercises.h"
 

@@ -3,7 +3,6 @@
 
 #include "../headers/stack.h"
 #include "../headers/ui.h"
-#include "../headers/exercises.h"
 
 int main() {
 	top = 0;
